@@ -26,3 +26,6 @@ Passengers: Passenger demographics, ticket types, and purchase behaviors.
 Summary: Key insights and actionable recommendations.
 -<a href="https://github.com/Aya-Osamaa/UK-Train-Rides-Dashboard/blob/main/Screenshot%202025-05-17%20161023.png">Summary</a>
 
+## Dataset
+-<a href="https://docs.google.com/spreadsheets/d/1cwXHTBtwJGXpDOsHBeROoJc88U8iX9Dck9PESoGZjes/edit?usp=sharing">Dataset Link</a>
+
